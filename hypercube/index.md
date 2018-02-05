@@ -12,7 +12,7 @@ Useful link for [bed leveling](https://github.com/pflannery/Hypercube/blob/maste
 
 ## Slic3r
 
-Download [Config Bundle](/hypercube/Slic3r_config_bundle.ini).
+Download [Config Bundle](/hypercube/pink_hypercube.ini).
 
 Choose File > Load Config Bundle.
 
