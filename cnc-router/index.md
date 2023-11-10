@@ -102,3 +102,8 @@ MAINTAIN EASY ACCESS TO THE EMERGENCY STOP BUTTON IN CASE SOMETHING GOES WRONG. 
 IT IS YOUR RESPONSIBILITY TO CLEAN THE MACHINE AND SURROUNDING WORK AREA AFTER YOU HAVE USED IT.
 
 **Please report any damage, breakages or problems with the CNC router to ensure that the machine is always kept in good working order.**
+
+# Further Reading:
+
+- [Lowrider v3 Docs](https://docs.v1e.com/lowrider/)
+- - [Milling Basics](https://docs.v1e.com/tools/milling-basics/) This section is a MUST read.
