@@ -29,7 +29,9 @@ A FULLY FITTED FACE MASK (FFP1 or better) IS ALSO REQUIRED WHEN MACHINING MDF AN
 ## Machine Preparation
 
 1. Check to make sure that the machine is switched off by pressing the red power button.  See Fig. 1
+<img src="fig1.png" style="float: left;"> 
 2. Copy the G code file to a USB stick. Install this stick in the controller interface on the control box on top of the machine gantry.  See Fig. 2.  Do not turn the machine on.
+<img src="fig2.png" >
 3. Clean the machine surfaces using a dry rag, brush and the vacuum cleaner.  Pay particular attention to surfaces where the roller guides move along the X and Y axes.  Remove any tools or scrap material from the work table.
 4. Select the cutting tool with the diameter specified in your program.  This machine uses mostly solid carbide cutters that must be sharp and in good condition.  Select the collet size that matches the shank diameter of the cutter you are using.
 
@@ -37,7 +39,9 @@ A FULLY FITTED FACE MASK (FFP1 or better) IS ALSO REQUIRED WHEN MACHINING MDF AN
 
 1. Turn the machine off and isolate it by pressing the emergency stop button on the front of the machine.
 2. Press and hold the red spindle lock button on the router head.  See Fig 4.
+<img src="fig4.png" style="float: left;">
 3. Loosen the retaining nut that holds the cutter and collet until it comes completely off.  It has a right-hand thread.  See Fig. 5
+<img src="fig5.png" style="float: left;">
 4. Clean the collet and spindle nut.
 5. Insert a new cutter with the corresponding size collet.  Ensur that the cutter shank is fully engaged with the collet so that it does not extend too far.  An incorrectly installed cutter may deflect and break.
 6. Reinstall the retaining nut and tighten it.
@@ -46,8 +50,11 @@ A FULLY FITTED FACE MASK (FFP1 or better) IS ALSO REQUIRED WHEN MACHINING MDF AN
 
 1. Disengage the emergency stop button by twisting it.
 2. Turn the power on at the sockets on the wall.  See Fig. 6
+<img src="fig6.png" style="float: left;">
 3. Fig 6 – Switch on power.The main menu screen will be displayed on the control panel.  Press the MOVEMENT button.  See Fig. 7
+<img src="fig7.png" style="float: left;">
 4. Press the HOME button on the Control Panel to go to the HOME menu.  See Fig. 8
+<img src="fig8.png" style="float: left;"><img src="fig9.png" style="float: left;">
 5. Press the HOME button on the home menu screen to zero each of the axes.  This is a necessary procedure each time the machine is switched on.  Each axes will move to its home position, starting with the Z.
 
 # Locating the Workpiece and Setting the Cutter Start Position
@@ -55,9 +62,13 @@ A FULLY FITTED FACE MASK (FFP1 or better) IS ALSO REQUIRED WHEN MACHINING MDF AN
 1. Check that the router spindle is switched off.
 2. Position and secure the work material to the machine table.
 3. Select the MOVEMENT button from the Main menu screen.  See Fig. 10
+<img src="fig10.png" style="float: left;">
 4. Select the MOVE button.  See Fig. 11
+<img src="fig11.png" style="float: left;">
 5. Carefully select the amount you would like each axes to move each time you press the X, Y or Z axes buttons.  Smaller increments are safer to use.  See Fig 12.  Then move each of the axes using the buttons in the MOVE menu. Once an axes has been selected, you can also use the knob on the control panel to move each axis.
-6. With the router spindle switched off, position each of the axes to align your cutter in relation to the starting position of your part material.  This position is referenced by the G92 command in your G-Code program.  You may use a piece of paper as you bring down the Z axis to help position the tool on or above the part surface.  You may also use the tool height setting
+<img src="fig12.png" style="float: left;">
+6. With the router spindle switched off, position each of the axes to align your cutter in relation to the starting position of your part material.  This position is referenced by the G92 command in your G-Code program.  You may use a piece of paper as you bring down the Z axis to help position the tool on or above the part surface.  You may also use the tool height setting.
+<img src="position.png" style="float: left;">
 
 # Machining the Part
 
@@ -66,12 +77,19 @@ A FULLY FITTED FACE MASK (FFP1 or better) IS ALSO REQUIRED WHEN MACHINING MDF AN
 3. Zero the machine axes.
 4. Move the cutter to the start position, using the X, Y and Z buttons in the MOVE menu.
 5. Select the PRINT button on the MAIN menu.  See Fig 13.
+<img src="fig13.png" style="float: left;">
 6. Select the USB option from the PRINT menu.  See Fig 14.
+<img src="fig14.png" style="float: left;">
 7. Select the file containing the G-Code.
+<img src="tftusb.png" style="float: left;">
+<img src="files.png" style="float: left;">
 8. Select the spindle speed using the dial on the top of the spindle head.  See Fig 15.
+<img src="fig15.png" style="float: left;">
 9. Switch on the dust vacuum extraction system if you have not used M106 P0 in your G-Code program.
 10. Turn the router spindle on if you have not used M106 P0 in your G-Code program.  See Fig 16.
+<img src="fig16.png" style="float: left;">
 11. Select the OK button on the PRINT menu.  The machine will now start cutting.  See Fig 17.
+<img src="fig17.png" style="float: left;">
 12. Make adjustments to the federate if necessary using the XXXX button on the XXXXXX menu.
 13. Turn the spindle off and isolate the machine power supply with the emergency off button when the machining operation is completed.
 
