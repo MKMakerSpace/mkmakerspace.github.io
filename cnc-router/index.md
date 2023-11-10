@@ -107,3 +107,8 @@ IT IS YOUR RESPONSIBILITY TO CLEAN THE MACHINE AND SURROUNDING WORK AREA AFTER Y
 
 - [Lowrider v3 Docs](https://docs.v1e.com/lowrider/)
 - - [Milling Basics](https://docs.v1e.com/tools/milling-basics/) This section is a MUST read.
+
+# Useful Links:
+
+- [Web based Vector Editor](https://editor.method.ac/) A simple open source vector drawing application. Seems like it might be really useful for creating SVG's for importing into Estlcam for cutting on the CNC.
+- [Vectorizer](https://vectorizer.ai/) Convert your JPEG and PNG bitmaps to SVG vectors quickly and easily. Fully Automatically. Using AI.
