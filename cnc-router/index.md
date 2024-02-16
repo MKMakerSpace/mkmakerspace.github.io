@@ -4,6 +4,7 @@ The CNC router installed at Men in Sheds MK is a 2-1/2 axes CNC unit for the pro
 
 The unit consists of a wooden stand and a framework for supporting and guiding the cutting operation.  The drive system can move a variety of small carbide wood cutting bits in the X, Y and Z axes with shank sizes up to 6.35mm (1/4-inch).  A program, consisting of basic G codes, is required to move the cutter along these three axes.
 
+<!--
 The following G codes are accepted by the control unit:
 
 - G92    Set part zero (starting point)
@@ -17,8 +18,9 @@ An F code is used to set the feed rate.  This value determines how fast the cutt
 **Additional ‘M’ codes (Miscellaneous functions) may also be included in the program.**  For example: M106 PO will switch the spindle and the dust extraction system on;  M107 PO will switch them off.
 
 **Please ask a person familiar with G code programming to review your program before loading and running it on the machine.**
+-->
 
-The machine is relatively simple to use but can pose a danger to those who are not familiar with its operation.
+**The machine is relatively simple to use but can pose a danger to those who are not familiar with its operation. The folling rules MUST be adhered to when using the machine:**
 
 HEARING AND EYE PROTECTION ARE REQUIRED TO OPERATE OR OBSERVE THIS EQUIPMENT WHEN RUNNING.
 
